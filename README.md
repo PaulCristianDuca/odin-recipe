@@ -1,1 +1,1 @@
-Odin Recipes Project #1
+Odin Recipes | Project #1
